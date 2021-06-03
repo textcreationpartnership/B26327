@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lucilla and Elizabeth, or, Donatist and Protestant schism parallel'd</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26327</idno><idno type="EEBO-CITATION">11747667_48552</idno>
+  <idno type="VID">48552</idno>
+  <idno type="EEBO-PROQUEST">2248524999</idno>
+  
+            <idno type="STC">Wing L3441</idno>
+            <idno type="STC">ESTC R30959</idno>
+            <idno type="OCLC">11747667</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48552)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:46 or 1486:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lucilla and Elizabeth, or, Donatist and Protestant schism parallel'd</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+                  <note>This item appears at reel 1439:46 and 1486:54.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Protestantism --  Controversial literature.</term>
+               <term type="topical_term">Donatists.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:48552:1"/>
+            <pb n="1" facs="tcp:48552:1"/>
+            <head>
+               <hi>Lucilla and Elizabeth,</hi> OR, Donatist and Protestant SCHISM PARALLEL'D.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Donatism.</cell>
+                     <cell role="label">Protestancy.</cell>
+                  </row>
+                  <row>
+                     <cell>1. Ordain'd Anti-Bishops.</cell>
+                     <cell>1. <hi>Ordain'd Anti-Bishops.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2. Erected Anti-Altars.</cell>
+                     <cell>2. <hi>Erected Anti-Tables.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>3. Impeach'd all other Churches of Aposta<g ref="char:EOLhyphen"/>cy.</cell>
+                     <cell>3. <hi>Impeach'd the whole Church of Superstition, Idolatry, and Antichri<g ref="char:EOLhyphen"/>stianism.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4. Communicated with no other Church in Re<g ref="char:EOLhyphen"/>ligious Offices.</cell>
+                     <cell>4. <hi>Communicates, in Sa<g ref="char:EOLhyphen"/>cred Duties, with no Chri<g ref="char:EOLhyphen"/>stian Society.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>5. Appeal'd from the Churches Sentence in a Spiritual Cause to a Lay-Prince.</p>
+                        <p>Yet continued the Ca<g ref="char:EOLhyphen"/>tholick Creed, Sacra<g ref="char:EOLhyphen"/>ments, Liturgies, Regi<g ref="char:EOLhyphen"/>ment and Solemnities, as they were before the Schism.</p>
+                     </cell>
+                     <cell>
+                        <p>5. <hi>Appeal'd from the Churches Decrees to the Princes Supremacy, ad<g ref="char:EOLhyphen"/>vancing it in all Spiritu<g ref="char:EOLhyphen"/>al Cases, above any Au<g ref="char:EOLhyphen"/>thority, Ecclesiastical, whatsoever.</hi>
+                        </p>
+                        <p>
+                           <hi>Continues Baptism and the Creed (in most Articles) but errs concerning the Eucharist and other our Lord's Sacraments, abro<g ref="char:EOLhyphen"/>gating the Liturgies, Rites, Canons, Fasts and Festivals, as also the Spiritual Jurisdiction of the Church, and Canonical Obedience to the Western Pa<g ref="char:EOLhyphen"/>triarch.</hi>
+                        </p>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <div type="part">
+               <pb n="2" facs="tcp:48552:2"/>
+               <head>
+                  <hi>St.</hi> Augustin's <hi>Censure against the</hi> Dona<g ref="char:EOLhyphen"/>tists <hi>involving</hi> Protestants <hi>also.</hi>
+               </head>
+               <p>
+                  <note place="margin">Epist. 48.</note>YOU [<hi>Donatists</hi>] are with us <hi>[Catholics]</hi> in Ba<g ref="char:EOLhyphen"/>ptism,in the Creed, and in the rest of our Lord's Sacraments; but in the Spirit of Unity, in the Bond of Peace, lastly, in the Catholic Church it self, you are not with us.</p>
+               <p>
+                  <note place="margin">Epist. 153.</note>The Sacraments of <hi>Christ,</hi> which in the Sacrilege of Schism you <hi>[Donatists]</hi> have to Judgment, will be profitable and wholsom to you, when you shall
+<pb n="3" facs="tcp:48552:2"/>have the Head, <hi>Christ,</hi> in Catholic Peace, where Charity will cover a multitude of Sins.</p>
+               <p>
+                  <note place="margin">De Ʋni<g ref="char:EOLhyphen"/>tate Ec<g ref="char:EOLhyphen"/>clesiae, c. <hi>4.</hi>
+                  </note>Whosoever believe <hi>Christ Jesus</hi> to be come in the Flesh, <hi>&amp;c.</hi> but yet so dissent from his Body which is his Church, as that their Communion is not with the whole, whereever diffused, but is found Separated in some part, 'tis manifest they are not in the Catholic Church.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Cap.</hi> 2.</note> This Church is the Body of Christ,as the Apo<g ref="char:EOLhyphen"/>stle saith, <hi>Col.</hi> 1.24. <hi>For his Body, which is the Church.</hi> Whence surely 'tis manifest, That He who is no Member of <hi>Christ,</hi> cannot have Christian Salvation. But the Members of <hi>Christ</hi> are joyn'd to each other by the Charity of Unity, and by the same [Charity] do they cohere to their Head, <hi>Christ Jesus.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>Epist.</hi> 153.</note>Whosoever therefore is Separated from the Ca<g ref="char:EOLhyphen"/>tholic Church, how laudably soever he thinks him<g ref="char:EOLhyphen"/>self to live, for this only Crime, that he is disjoyn'd from the Unity of <hi>Christ,</hi> he shall not have life, but the wrath of God abideth on him.</p>
+               <p>Now St. <hi>Augustin</hi> places the <hi>Donatists</hi> Schism in their not joyning with <hi>Catholics</hi> in Religious Offi<g ref="char:EOLhyphen"/>ces, In forsaking all Christian Assemblies, In not par<g ref="char:EOLhyphen"/>taking with them of the Eucharist, In Prayers, <hi>&amp;c.</hi> Whence he concludes them not to belong to the Catholic Church, Not to be Members of <hi>Christ</hi>'s Mystical Body, Not to have Charity, Not Sacra<g ref="char:EOLhyphen"/>ments to Benefit, Not Piety with hope, nor Sal<g ref="char:EOLhyphen"/>vation.
+<pb n="4" facs="tcp:48552:3"/>Have Prelatical <hi>Protestants</hi> of <hi>Great Bri<g ref="char:EOLhyphen"/>tain</hi> and <hi>Ireland</hi> and visible Communion, in the Eucharist or other Divine Service, with any Chri<g ref="char:EOLhyphen"/>stian Church on Earth? If they have not, as is un<g ref="char:EOLhyphen"/>deniable, then according to St. <hi>Augustin,</hi> they are not in the Catholic Church, are not Members of <hi>Christ,</hi> are without Charity, beneficial Sacraments, hopeful Holiness, and eternal Salvation. And this Censure by so much more justly belongs to them, as their Schism is more contumacious, their Ca<g ref="char:EOLhyphen"/>lumnies against the Catholic Church more horrid, and their Defection by Heresie as well as Schism, wider than was the <hi>Donatists.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Publish'd with Allowance.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's most Excellent Majesty for His Houshold and Chappel. 1686.</p>
+            <pb facs="tcp:48552:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
